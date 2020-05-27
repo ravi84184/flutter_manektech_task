@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'database/database_creator.dart';
 import 'pages/home_page.dart';
 
-const API_KEY = "AIzaSyAPbxsTh6PW6oq3uZlkGNVrpZtC3qintN0 ";
+const API_KEY = "";
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
